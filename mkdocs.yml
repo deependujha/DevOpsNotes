@@ -47,14 +47,14 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: pink
-      accent: pink
+      primary: blue
+      accent: blue grey
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: black
-      accent: indigo
+      primary: blue
+      accent: white
       toggle:
         icon: material/toggle-switch-off
         name: Switch to light mode
