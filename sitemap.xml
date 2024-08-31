@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://deependujha.github.io/DevOpsNotes/</loc>
+         <lastmod>2024-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/DevOpsNotes/01-docker/</loc>
+         <lastmod>2024-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/DevOpsNotes/01-docker/02-commands/commands/</loc>
+         <lastmod>2024-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/DevOpsNotes/02-kubernetes/</loc>
+         <lastmod>2024-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/DevOpsNotes/03-aws/</loc>
+         <lastmod>2024-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/DevOpsNotes/04-gcp/</loc>
+         <lastmod>2024-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/DevOpsNotes/05-kafka/</loc>
+         <lastmod>2024-08-31</lastmod>
+    </url>
+</urlset>
